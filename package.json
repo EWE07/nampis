@@ -1,6 +1,6 @@
 {
   "name": "nampis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A npm that joins several apis.",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/EWE07/nampis.git"
   },
-  "keywords": [],
+  "keywords": ["api", "nampis", "npm-apis"],
   "author": "07",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EWE07/nampis/issues"
   },
-  "homepage": "https://github.com/EWE07/nampis#readme"
+  "homepage": "https://github.com/EWE07/nampis#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1"
+  }
 }
