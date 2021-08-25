@@ -4,7 +4,7 @@
   "description": "A npm that joins several apis.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "npm version 1.1.5 && npm publish",
+    "build": "npm i && npm test",
     "test": "node test/apis.js"
   },
   "repository": {
