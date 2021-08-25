@@ -1,9 +1,10 @@
 {
   "name": "nampis",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "description": "A npm that joins several apis.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
+    "build": "npm version 1.1.1 && npm publish",
     "test": "node lib/sandbox/apis.js"
   },
   "repository": {
