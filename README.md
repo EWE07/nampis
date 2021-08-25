@@ -1,4 +1,4 @@
-# Nampis
+# Nampis (Beta)
 
 Name | Api
 -----|----------
