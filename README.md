@@ -5,6 +5,6 @@ Name | Api
 Cat | ThatCopy.pw
 
 
-- [ ] Reform the code and the structure.
+- [ ] Reform the structure of the code.
 - [ ] Reform the README
 - [ ] Add more Apis
