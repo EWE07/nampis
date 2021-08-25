@@ -1,10 +1,4 @@
 # Nampis (Beta)
 
-Name | Api
------|----------
-Cat | ThatCopy.pw
-
-
-- [ ] Reform the structure of the code.
 - [ ] Reform the README
-- [ ] Add more Apis
+- [ ] Add the name of the apis 

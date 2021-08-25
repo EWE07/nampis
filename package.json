@@ -4,8 +4,7 @@
   "description": "A npm that joins several apis.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node SandBox/test.js"
+    "test": "node lib/sandbox/apis.js"
   },
   "repository": {
     "type": "git",
@@ -14,10 +13,9 @@
   "keywords": [
     "api",
     "nampis",
-    "npm-apis",
-    "disc"
+    "discord"
   ],
-  "author": "its07",
+  "author": "EWE07",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EWE07/nampis/issues"
