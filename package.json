@@ -4,7 +4,6 @@
   "description": "A collection of apis using npm.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "npm i && npm test",
     "test": "node test/apis.js"
   },
   "repository": {
