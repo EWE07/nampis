@@ -6,5 +6,5 @@ const nampis = require('../lib/index');
 	console.log(await nampis.fox());
 	console.log(await nampis.duck());
 
-	console.log(nampis.xbox("oi"));
+	console.log(nampis.xbox('Hey!'));
 })();
