@@ -2,7 +2,7 @@
 A collection of apis using npm.
 
 # Installation
-Current stable release (**v1.1.5**) requires at least Node.js **12.0.0**
+Current stable release (**v1.1.6**) requires at least Node.js **12.0.0**
 
 ```
 npm install nampis
@@ -27,16 +27,4 @@ async function api() {
 };
 
 api();
-```
-
-**or**
-
-
-```js
-const nampis = require("nampis");
-
-(async () => {
-    await nampis.cat();
-})();
-
 ```
