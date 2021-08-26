@@ -1,4 +1,42 @@
-# Nampis (Beta)
+# Nampis
+A collection of apis using npm.
 
-- [ ] Reform the README
-- [ ] Add the name of the apis 
+# Installation
+Current stable release (**v1.1.5**) requires at least Node.js **12.0.0**
+
+```
+npm install nampis
+```
+
+# Apis
+
+Command | Api
+-----|-----
+Cat  | [Cataas](https://cataas.com)
+Dog  | [Dog.ceo](https://dog.ceo/api/breeds/image/random)
+Fox  | [Randomfox.ca](https://randomfox.ca/floof)
+Duck | [Random-d.uk](https://random-d.uk/api/quack)
+
+# Usage
+
+```js
+const nampis = require("nampis");
+
+async function api() {
+    return await nampis.cat();
+};
+
+api();
+```
+
+**or**
+
+
+```js
+const nampis = require("nampis");
+
+(async () => {
+    await nampis.cat();
+})();
+
+```
