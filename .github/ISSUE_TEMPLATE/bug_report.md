@@ -11,8 +11,8 @@ assignees: EWE07
 A clear and concise description of what the bug is.
 
 **Where is the bug?**
-- [  ] In code
-- [  ] In an api
+- [ ] In code
+- [ ] In an api
 
 **To Reproduce**
 Steps to reproduce the behavior:
