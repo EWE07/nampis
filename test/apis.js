@@ -1,6 +1,7 @@
 const nampis = require('../lib/index');
 
 (async () => {
+	console.log(await nampis.minecraft("hypixel.net", "java", "ip"))
 	console.log(await nampis.cat());
 	console.log(await nampis.dog());
 	console.log(await nampis.fox());
