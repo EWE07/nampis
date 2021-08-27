@@ -16,15 +16,3 @@ Cat  | [Cataas](https://cataas.com)
 Dog  | [Dog.ceo](https://dog.ceo/api/breeds/image/random)
 Fox  | [Randomfox.ca](https://randomfox.ca/floof)
 Duck | [Random-d.uk](https://random-d.uk/api/quack)
-
-# Usage
-
-```js
-const nampis = require("nampis");
-
-async function api() {
-    return await nampis.cat();
-};
-
-api();
-```
