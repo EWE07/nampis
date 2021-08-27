@@ -28,12 +28,3 @@ async function api() {
 
 api();
 ```
-
-# Documentation
-
-- Nampis
-  - method cat
-  - method dog
-  - method fox
-  - method duck
-  - method xbox
