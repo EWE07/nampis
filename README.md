@@ -9,7 +9,6 @@ npm install nampis
 ```
 
 # Apis
-
 Command | Api
 -----|-----
 Cat  | [Cataas](https://cataas.com)
