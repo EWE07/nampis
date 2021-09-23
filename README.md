@@ -1,4 +1,4 @@
-# Nampis
+# Nampis (deprecated)
 A collection of apis using npm.
 
 # Installation
