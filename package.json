@@ -1,0 +1,28 @@
+{
+  "name": "nampis",
+  "version": "1.1.9",
+  "description": "A collection of apis using npm.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/load.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EWE07/nampis.git"
+  },
+  "keywords": [
+    "api",
+    "nampis",
+    "apis"
+  ],
+  "author": "EWE07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EWE07/nampis/issues"
+  },
+  "homepage": "https://github.com/EWE07/nampis#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "superagent": "^6.1.0"
+  }
+}
